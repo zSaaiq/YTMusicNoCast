@@ -1,0 +1,9 @@
+Package: com.zsaaiq.ytmusicnocast
+Name: YTMusicNoCast
+Author: zSaaiq <kevin.felix90@gmx.de>
+Description: hides the Google cast button in the whole YTMusic app.
+Depends: firmware (>=15.0), mobilesubstrate
+Maintainer: zSaaiq <kevin.felix90@gmx.de>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0
