@@ -5,6 +5,7 @@ Description: hides the Google cast button in the whole YTMusic app.
 Depends: firmware (>=15.0), mobilesubstrate
 Maintainer: zSaaiq <kevin.felix90@gmx.de>
 Section: Tweaks
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/YTMusicNoCast.png
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 168
