@@ -7,4 +7,6 @@ Maintainer: zSaaiq <kevin.felix90@gmx.de>
 Architecture: iphoneos-arm
 Section: Tweaks
 Version: 1.0
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/ytmusicnocast.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/ytmusicnocast.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/YTMusicNoCast.png

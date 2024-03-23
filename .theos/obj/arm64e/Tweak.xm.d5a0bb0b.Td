@@ -1,5 +1,5 @@
-/Users/kevinmuller/Desktop/YTMusicNoCast/.theos/obj/arm64e/Tweak.xm.4fa77ddf.o: \
-  /Users/kevinmuller/Desktop/YTMusicNoCast/.theos/obj/arm64e/Tweak.xm.mm \
+/Users/kevinmuller/Desktop/JB_Tweaks/YTMusicNoCast/.theos/obj/arm64e/Tweak.xm.d5a0bb0b.o: \
+  /Users/kevinmuller/Desktop/JB_Tweaks/YTMusicNoCast/.theos/obj/arm64e/Tweak.xm.mm \
   /Users/kevinmuller/theos/Prefix.pch \
   /Users/kevinmuller/theos/vendor/include/libhooker/module.modulemap \
   /Users/kevinmuller/theos/vendor/include/AppList/module.modulemap \
